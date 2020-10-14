@@ -1,0 +1,26 @@
+_repo: A-Letter-of-affectionate-remonstrance-addressed-to-the-members-of-the-Established-Church-in-N__63326
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alexander, John
+    birthdate: 1792
+    deathdate: 1868
+    gutenberg_agent_id: '52365'
+    url: http://www.gutenberg.org/2009/agents/52365
+description: ''
+gutenberg_issued: '2020-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63326'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BX'
+- !lcsh 'Church and education -- England'
+- GITenberg
+title: A Letter of affectionate remonstrance addressed to the members of the Established
+  Church in Norwich and in Norfolk and occasioned by the proposed exclusive system
+  of infant education
+url: http://www.gutenberg.org/ebooks/63326
